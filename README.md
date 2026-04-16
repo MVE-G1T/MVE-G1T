@@ -54,9 +54,9 @@
   <img src="https://streak-stats.demolab.com/?user=MVE-G1T&theme=transparent&hide_border=true&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 </div>
 
-### 🏆 Trofeos
+### ----
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MVE-G1T&theme=dracula&no-frame=true&column=4&margin-w=15" width="100%" />
+ 
 </p>
 
 ---
