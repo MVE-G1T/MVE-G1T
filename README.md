@@ -26,7 +26,7 @@
 <summary><b>Lenguajes y Frameworks</b></summary>
 <br />
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,html,css" />
 </p>
 </details>
 
