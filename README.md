@@ -1,3 +1,13 @@
+<div align="center">
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/MVE-G1T/count.svg"/>
+  <br/>
+</div>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=MVE-G1T&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MVE-G1T&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MVE-G1T&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true"/>
+</div>
 # 💫 About Me:
 Mi nombre es, Erick Moran<br>Me encuentro estudiando la carrera de Ingeniería en Sistemas, y vivo con el deseo <br>de seguir desarrollando conocimientos sobre la programación y la Ciberseguridad.<br>Planeo compartir proyectos propios y conocimientos o experiencias personales, para <br>poder brindar ayuda a quien la necesite.<br>
 
