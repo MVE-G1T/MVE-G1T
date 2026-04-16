@@ -1,24 +1,66 @@
-# 💫 About Me:
-Mi nombre es, Erick Moran<br>Me encuentro estudiando la carrera de Ingeniería en Sistemas, y vivo con el deseo <br>de seguir desarrollando conocimientos sobre la programación y la Ciberseguridad.<br>Planeo compartir proyectos propios y conocimientos o experiencias personales, para <br>poder brindar ayuda a quien la necesite.<br>
+# 💫 Erick Moran | Future Systems Engineer
+> Estudiante de Ingeniería en Sistemas apasionado por el desarrollo de software y la Ciberseguridad.
 
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/natanahel) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/erickmoran21) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/n4tanahel) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=MVE-G1T&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=MVE-G1T&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=MVE-G1T&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MVE-G1T&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true"/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MVE-G1T&bg_color=0D1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" />
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MVE-G1T&theme=blue_navy&no-frame=false&no-bg=true&margin-w=4)
+### 🔭 Sobre mí
+- 🎓 Actualmente profundizando en **Ingeniería en Sistemas**.
+- 🔐 Enfocado en el desarrollo seguro y principios de **Ciberseguridad**.
+- 💡 Mi meta es compartir experiencias y proyectos para apoyar a la comunidad técnica.
 
 ---
-[![](https://komarev.com/ghpvc/?username=MVE-G1T&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🌐 Conecta conmigo
+<p align="left">
+<a href="https://discord.gg/natanahel" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://instagram.com/n4tanahel" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.facebook.com/erickmoran21" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+</p>
+
+---
+
+### 💻 Tech Stack
+<details open>
+<summary><b>Lenguajes y Frameworks</b></summary>
+<br />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,html,css,js" />
+</p>
+</details>
+
+<details>
+<summary><b>Herramientas y Diseño</b></summary>
+<br />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,notion,bitwarden" />
+  <br><br>
+  <a href="https://affinity.serif.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Affinity_Suite-5fb4fb?style=for-the-badge&logo=affinity&logoColor=black" />
+  </a>
+</p>
+</details>
+
+---
+
+### 📊 Estadísticas de GitHub
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=MVE-G1T&theme=transparent&hide_border=true&show_icons=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" height="170" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MVE-G1T&theme=transparent&hide_border=true&layout=compact&title_color=58a6ff&text_color=c9d1d9" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=MVE-G1T&theme=transparent&hide_border=true&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+</div>
+
+### 🏆 Trofeos
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MVE-G1T&theme=dracula&no-frame=true&column=4&margin-w=15" width="100%" />
+</p>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MVE-G1T&label=Perfil%20Visto&color=58a6ff&style=flat" />
+</div>
