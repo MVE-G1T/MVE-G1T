@@ -1,8 +1,7 @@
-# 💫 Erick Moran | Future Systems Engineer
-> Estudiante de Ingeniería en Sistemas apasionado por el desarrollo de software y la Ciberseguridad.
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MVE-G1T&bg_color=0D1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Erick%20Moran&fontSize=70&animation=fadeIn&fontAlignY=35&fontColor=58a6ff" width="100%" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Future+Systems+Engineer;Software+Developer;Cybersecurity+Enthusiast" alt="Typing SVG" />
 </div>
 
 ### 🔭 Sobre mí
@@ -37,7 +36,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,notion,bitwarden" />
   <br><br>
   <a href="https://affinity.serif.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Affinity_Suite-94f378?style=for-the-badge&logo=affinity&logoColor=black](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Affinity_%28App%29_Logo.svg/960px-Affinity_%28App%29_Logo.svg.png" />
+    <img src="https://img.shields.io/badge/Affinity_Suite-94f378?style=for-the-badge&logo=affinity&logoColor=black" />
   </a>
 </p>
 </details>
@@ -45,6 +44,12 @@
 ---
 
 ### 📊 Estadísticas de GitHub
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MVE-G1T&bg_color=0D1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=false" width="100%" />
+</div>
+
+<br />
+
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=MVE-G1T&theme=transparent&hide_border=true&show_icons=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" height="170" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MVE-G1T&theme=transparent&hide_border=true&layout=compact&title_color=58a6ff&text_color=c9d1d9" height="170" />
@@ -54,9 +59,11 @@
   <img src="https://streak-stats.demolab.com/?user=MVE-G1T&theme=transparent&hide_border=true&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 </div>
 
-### ----
+---
+
+### 🏆 Trofeos
 <p align="center">
- 
+  <img src="https://github-profile-trophy.vercel.app/?username=MVE-G1T&theme=dracula&no-frame=true&column=4&margin-w=15" width="100%" />
 </p>
 
 ---
