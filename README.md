@@ -1,9 +1,3 @@
-<div align="center"
-  <br/>
-</div>
-<div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MVE-G1T&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true"/>
-</div>
 # 💫 About Me:
 Mi nombre es, Erick Moran<br>Me encuentro estudiando la carrera de Ingeniería en Sistemas, y vivo con el deseo <br>de seguir desarrollando conocimientos sobre la programación y la Ciberseguridad.<br>Planeo compartir proyectos propios y conocimientos o experiencias personales, para <br>poder brindar ayuda a quien la necesite.<br>
 
@@ -17,6 +11,9 @@ Mi nombre es, Erick Moran<br>Me encuentro estudiando la carrera de Ingeniería e
 ![](https://github-readme-stats.shion.dev/api?username=MVE-G1T&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=MVE-G1T&theme=blue_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=MVE-G1T&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MVE-G1T&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true"/>
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MVE-G1T&theme=blue_navy&no-frame=false&no-bg=true&margin-w=4)
