@@ -8,7 +8,7 @@
 ### 🔭 Sobre mí
 - 🎓 Actualmente profundizando en **Ingeniería en Sistemas**.
 - 🔐 Enfocado en el desarrollo seguro y principios de **Ciberseguridad**.
-- 💡 Mi meta es compartir experiencias y proyectos para apoyar a la comunidad técnica.
+- 💡 Mi meta es compartir experiencias y proyectos para brindar ayuda a quien la necesite.
 
 ---
 
@@ -37,7 +37,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,notion,bitwarden" />
   <br><br>
   <a href="https://affinity.serif.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Affinity_Suite-5fb4fb?style=for-the-badge&logo=affinity&logoColor=black" />
+    <img src="https://img.shields.io/badge/Affinity_Suite-94f378?style=for-the-badge&logo=affinity&logoColor=black](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Affinity_%28App%29_Logo.svg/960px-Affinity_%28App%29_Logo.svg.png" />
   </a>
 </p>
 </details>
