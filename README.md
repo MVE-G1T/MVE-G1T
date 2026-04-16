@@ -5,8 +5,9 @@
 </div>
 
 ### 🔭 Sobre mí
-- 🎓 Actualmente profundizando en **Ingeniería en Sistemas**.
+- 🎓 Actualmente estudiando la carrera de **Ingeniería en Sistemas**.
 - 🔐 Enfocado en el desarrollo seguro y principios de **Ciberseguridad**.
+- 💭 Con animos de seguir profundizando en el area de programación.
 - 💡 Mi meta es compartir experiencias y proyectos para brindar ayuda a quien la necesite.
 
 ---
