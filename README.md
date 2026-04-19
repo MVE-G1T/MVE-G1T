@@ -1,12 +1,12 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Erick%20Moran&fontSize=70&animation=fadeIn&fontAlignY=35&fontColor=58a6ff" width="100%" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Future+Systems+Engineer;Software+Developer;Cybersecurity+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Future+Systems+Engineer;Cybersecurity+Enthusiast" alt="Typing SVG" />
 </div>
 
 ### 🔭 Sobre mí
 - 🎓 Actualmente estudiando la carrera de **Ingeniería en Sistemas**.
-- 🔐 Enfocado en el desarrollo seguro y principios de **Ciberseguridad**.
+- 🔐 En proceso de aprendizaje sobre los principios de **Ciberseguridad**.
 - 💭 Con animos de seguir profundizando en el area de programación.
 - 💡 Mi meta es compartir experiencias y proyectos para brindar ayuda a quien la necesite.
 
