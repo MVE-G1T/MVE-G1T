@@ -63,9 +63,7 @@
 ---
 
 ### 🏆 Trofeos
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MVE-G1T&theme=dracula&no-frame=true&column=4&margin-w=15" width="100%" />
-</p>
+
 
 ---
 
